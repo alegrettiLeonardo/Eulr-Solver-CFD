@@ -1,0 +1,8 @@
+276.92       ! X-Velocity
+0.0          ! Y-Velocity  
+101325.0     ! Ambient Pressure
+298.15       ! Ambient Temperature
+1.006E3      ! Specific Heat (Cp)
+0.7175E3     ! Specific Heat (Cv)
+100000       ! Interactions
+
